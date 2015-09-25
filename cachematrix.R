@@ -1,14 +1,13 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Se realizará una función que mantenga una función en la memoria caché
 
-## Write a short comment describing this function
+## Se elabora una función para la lectura de una matriz y se quede en memoria caché
 
 makeCacheMatrix <- function(x = matrix()) {
 
 }
 
 
-## Write a short comment describing this function
+## Se genera la función que genera la matriz inversa de la matriz que se tiene en memoria caché
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
